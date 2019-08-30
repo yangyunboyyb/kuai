@@ -1,0 +1,139 @@
+
+menke12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE
+  rotate: true
+  xy: 2, 37
+  size: 17, 97
+  orig: 17, 97
+  offset: 0, 0
+  index: -1
+FACE
+  rotate: false
+  xy: 660, 95
+  size: 203, 156
+  orig: 203, 156
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 447
+  size: 900, 566
+  orig: 900, 566
+  offset: 0, 0
+  index: -1
+fa01
+  rotate: false
+  xy: 949, 632
+  size: 24, 82
+  orig: 24, 82
+  offset: 0, 0
+  index: -1
+fa02
+  rotate: true
+  xy: 101, 38
+  size: 16, 57
+  orig: 16, 57
+  offset: 0, 0
+  index: -1
+fa03
+  rotate: false
+  xy: 949, 573
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+fa04
+  rotate: false
+  xy: 949, 517
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+fa05
+  rotate: true
+  xy: 975, 651
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+pidai
+  rotate: false
+  xy: 2, 56
+  size: 294, 50
+  orig: 294, 50
+  offset: 0, 0
+  index: -1
+pidai01
+  rotate: false
+  xy: 904, 491
+  size: 43, 223
+  orig: 43, 223
+  offset: 0, 0
+  index: -1
+pidai02
+  rotate: true
+  xy: 904, 716
+  size: 297, 102
+  orig: 297, 102
+  offset: 0, 0
+  index: -1
+pidai03
+  rotate: true
+  xy: 865, 100
+  size: 151, 79
+  orig: 151, 79
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: true
+  xy: 691, 253
+  size: 192, 247
+  orig: 192, 247
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: false
+  xy: 2, 108
+  size: 325, 146
+  orig: 325, 146
+  offset: 0, 0
+  index: -1
+shou03
+  rotate: true
+  xy: 2, 2
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+shou04
+  rotate: true
+  xy: 372, 158
+  size: 132, 286
+  orig: 132, 286
+  offset: 0, 0
+  index: -1
+shou05
+  rotate: true
+  xy: 329, 148
+  size: 106, 41
+  orig: 106, 41
+  offset: 0, 0
+  index: -1
+shou06
+  rotate: true
+  xy: 372, 292
+  size: 153, 317
+  orig: 153, 317
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 256
+  size: 368, 189
+  orig: 368, 189
+  offset: 0, 0
+  index: -1

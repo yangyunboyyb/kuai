@@ -1,0 +1,104 @@
+
+menke25.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 386, 1460
+  size: 49, 185
+  orig: 49, 185
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 269, 186
+  size: 77, 16
+  orig: 77, 16
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 204
+  size: 345, 323
+  orig: 345, 323
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 869, 1745
+  size: 95, 93
+  orig: 95, 93
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 828, 1840
+  size: 142, 179
+  orig: 142, 179
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 2, 2
+  size: 43, 141
+  orig: 43, 141
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 386, 1511
+  size: 154, 508
+  orig: 154, 508
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 2, 971
+  size: 440, 352
+  orig: 440, 352
+  offset: 0, 0
+  index: -1
+08a
+  rotate: false
+  xy: 386, 1667
+  size: 440, 352
+  orig: 440, 352
+  offset: 0, 0
+  index: -1
+08b
+  rotate: true
+  xy: 2, 529
+  size: 440, 352
+  orig: 440, 352
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 2, 47
+  size: 155, 265
+  orig: 155, 265
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 828, 1667
+  size: 39, 171
+  orig: 39, 171
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 356, 1307
+  size: 28, 104
+  orig: 28, 104
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 1413
+  size: 382, 606
+  orig: 382, 606
+  offset: 0, 0
+  index: -1

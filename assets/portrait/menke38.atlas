@@ -1,0 +1,244 @@
+
+menke38.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ldabi
+  rotate: false
+  xy: 1602, 50
+  size: 115, 149
+  orig: 117, 151
+  offset: 1, 1
+  index: -1
+Ldabixiukou
+  rotate: true
+  xy: 1719, 56
+  size: 86, 139
+  orig: 88, 141
+  offset: 1, 1
+  index: -1
+Ldabizhedang
+  rotate: false
+  xy: 1860, 66
+  size: 64, 76
+  orig: 66, 78
+  offset: 1, 1
+  index: -1
+Lditu
+  rotate: false
+  xy: 1505, 28
+  size: 95, 170
+  orig: 97, 172
+  offset: 1, 1
+  index: -1
+Lpaozi1
+  rotate: true
+  xy: 468, 63
+  size: 67, 330
+  orig: 69, 332
+  offset: 1, 1
+  index: -1
+Lpaozi2
+  rotate: true
+  xy: 1566, 355
+  size: 155, 400
+  orig: 157, 402
+  offset: 1, 1
+  index: -1
+Lshou
+  rotate: true
+  xy: 1754, 144
+  size: 86, 231
+  orig: 88, 233
+  offset: 1, 1
+  index: -1
+Lshouzhi
+  rotate: true
+  xy: 1595, 2
+  size: 24, 51
+  orig: 26, 53
+  offset: 1, 1
+  index: -1
+Lzhuozi1
+  rotate: true
+  xy: 2018, 370
+  size: 49, 28
+  orig: 51, 30
+  offset: 1, 1
+  index: -1
+Lzhuozi2
+  rotate: false
+  xy: 1602, 28
+  size: 49, 20
+  orig: 51, 24
+  offset: 1, 1
+  index: -1
+Lzhuozi3
+  rotate: false
+  xy: 1653, 8
+  size: 55, 40
+  orig: 57, 42
+  offset: 1, 1
+  index: -1
+Mbiyan
+  rotate: true
+  xy: 1958, 296
+  size: 57, 8
+  orig: 59, 10
+  offset: 1, 1
+  index: -1
+Mhuzi1
+  rotate: false
+  xy: 1968, 371
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+Mhuzi10
+  rotate: false
+  xy: 988, 87
+  size: 15, 43
+  orig: 17, 45
+  offset: 1, 1
+  index: -1
+Mhuzi11
+  rotate: true
+  xy: 102, 3
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+Mhuzi2
+  rotate: false
+  xy: 1926, 65
+  size: 51, 77
+  orig: 53, 79
+  offset: 1, 1
+  index: -1
+Mhuzi3
+  rotate: true
+  xy: 1968, 421
+  size: 89, 54
+  orig: 91, 56
+  offset: 1, 1
+  index: -1
+Mhuzi4
+  rotate: false
+  xy: 1792, 6
+  size: 49, 48
+  orig: 51, 50
+  offset: 1, 1
+  index: -1
+Mhuzi5
+  rotate: true
+  xy: 1505, 2
+  size: 24, 88
+  orig: 26, 90
+  offset: 1, 1
+  index: -1
+Mhuzi6
+  rotate: true
+  xy: 2, 8
+  size: 28, 98
+  orig: 30, 100
+  offset: 1, 1
+  index: -1
+Mhuzi7
+  rotate: false
+  xy: 974, 70
+  size: 12, 60
+  orig: 14, 62
+  offset: 1, 1
+  index: -1
+Mhuzi8
+  rotate: true
+  xy: 468, 50
+  size: 11, 85
+  orig: 13, 87
+  offset: 1, 1
+  index: -1
+Mhuzi9
+  rotate: false
+  xy: 1719, 160
+  size: 17, 39
+  orig: 19, 41
+  offset: 1, 1
+  index: -1
+Mlingzi
+  rotate: false
+  xy: 1754, 232
+  size: 202, 121
+  orig: 204, 123
+  offset: 1, 1
+  index: -1
+Mpifeng
+  rotate: false
+  xy: 2, 38
+  size: 464, 472
+  orig: 466, 474
+  offset: 1, 1
+  index: -1
+Mqugan
+  rotate: true
+  xy: 468, 132
+  size: 378, 535
+  orig: 380, 537
+  offset: 1, 1
+  index: -1
+Mqugan02
+  rotate: true
+  xy: 800, 49
+  size: 81, 172
+  orig: 82, 175
+  offset: 0, 1
+  index: -1
+Mtou
+  rotate: true
+  xy: 1276, 3
+  size: 183, 227
+  orig: 185, 229
+  offset: 1, 1
+  index: -1
+Myaodai
+  rotate: false
+  xy: 1005, 22
+  size: 269, 164
+  orig: 271, 166
+  offset: 1, 1
+  index: -1
+Rdabi
+  rotate: true
+  xy: 1563, 201
+  size: 152, 189
+  orig: 154, 191
+  offset: 1, 1
+  index: -1
+Rpaozi
+  rotate: true
+  xy: 1005, 188
+  size: 210, 440
+  orig: 212, 442
+  offset: 1, 1
+  index: -1
+Rquanzhang
+  rotate: true
+  xy: 1005, 400
+  size: 110, 559
+  orig: 112, 561
+  offset: 1, 1
+  index: -1
+Rshou
+  rotate: false
+  xy: 1447, 200
+  size: 114, 198
+  orig: 116, 200
+  offset: 1, 1
+  index: -1
+Rzhuozi
+  rotate: false
+  xy: 1719, 2
+  size: 71, 52
+  orig: 73, 54
+  offset: 1, 1
+  index: -1

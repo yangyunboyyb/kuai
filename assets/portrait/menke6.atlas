@@ -1,0 +1,188 @@
+
+menke6.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL01
+  rotate: false
+  xy: 519, 152
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1
+armL02
+  rotate: false
+  xy: 1741, 813
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+armL03
+  rotate: false
+  xy: 2, 130
+  size: 286, 168
+  orig: 286, 168
+  offset: 0, 0
+  index: -1
+armL04
+  rotate: false
+  xy: 1901, 879
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+armR01
+  rotate: false
+  xy: 506, 56
+  size: 103, 94
+  orig: 103, 94
+  offset: 0, 0
+  index: -1
+armR02
+  rotate: true
+  xy: 193, 8
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+armR03
+  rotate: false
+  xy: 300, 33
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+armR04
+  rotate: false
+  xy: 668, 174
+  size: 154, 129
+  orig: 154, 129
+  offset: 0, 0
+  index: -1
+body01
+  rotate: false
+  xy: 1020, 511
+  size: 350, 306
+  orig: 350, 306
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 630, 426
+  size: 388, 391
+  orig: 388, 391
+  offset: 0, 0
+  index: -1
+body0201
+  rotate: true
+  xy: 1020, 475
+  size: 34, 175
+  orig: 34, 175
+  offset: 0, 0
+  index: -1
+body03
+  rotate: true
+  xy: 1372, 585
+  size: 232, 170
+  orig: 232, 170
+  offset: 0, 0
+  index: -1
+buttonL
+  rotate: false
+  xy: 949, 210
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+buttonR
+  rotate: false
+  xy: 506, 2
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 2, 300
+  size: 626, 722
+  orig: 626, 722
+  offset: 0, 0
+  index: -1
+capeL
+  rotate: false
+  xy: 630, 305
+  size: 206, 119
+  orig: 206, 119
+  offset: 0, 0
+  index: -1
+capeR
+  rotate: false
+  xy: 412, 26
+  size: 92, 127
+  orig: 92, 127
+  offset: 0, 0
+  index: -1
+hair01
+  rotate: true
+  xy: 2, 15
+  size: 113, 189
+  orig: 113, 189
+  offset: 0, 0
+  index: -1
+hair02
+  rotate: false
+  xy: 1544, 717
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+hair03
+  rotate: true
+  xy: 838, 271
+  size: 153, 185
+  orig: 153, 185
+  offset: 0, 0
+  index: -1
+hair04
+  rotate: true
+  xy: 1372, 516
+  size: 67, 149
+  orig: 67, 149
+  offset: 0, 0
+  index: -1
+hair05
+  rotate: true
+  xy: 1598, 820
+  size: 90, 141
+  orig: 90, 141
+  offset: 0, 0
+  index: -1
+hair06
+  rotate: true
+  xy: 824, 201
+  size: 68, 123
+  orig: 68, 123
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 290, 155
+  size: 143, 227
+  orig: 143, 227
+  offset: 0, 0
+  index: -1
+scabbard
+  rotate: true
+  xy: 1598, 912
+  size: 110, 301
+  orig: 110, 301
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 630, 819
+  size: 203, 966
+  orig: 203, 966
+  offset: 0, 0
+  index: -1

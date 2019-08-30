@@ -1,0 +1,90 @@
+
+menke43.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 500, 326
+  size: 85, 24
+  orig: 85, 24
+  offset: 0, 0
+  index: -1
+hou_pifeng
+  rotate: true
+  xy: 1390, 317
+  size: 660, 580
+  orig: 660, 580
+  offset: 0, 0
+  index: -1
+shang_pifeng
+  rotate: false
+  xy: 2, 352
+  size: 684, 625
+  orig: 684, 625
+  offset: 0, 0
+  index: -1
+shengti2
+  rotate: true
+  xy: 688, 401
+  size: 576, 700
+  orig: 576, 700
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 2, 184
+  size: 496, 166
+  orig: 496, 166
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1015, 179
+  size: 220, 271
+  orig: 220, 271
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 688, 201
+  size: 198, 325
+  orig: 198, 325
+  offset: 0, 0
+  index: -1
+xiongdai
+  rotate: true
+  xy: 1288, 118
+  size: 197, 264
+  orig: 197, 264
+  offset: 0, 0
+  index: -1
+you_fa
+  rotate: true
+  xy: 2, 2
+  size: 38, 117
+  orig: 38, 117
+  offset: 0, 0
+  index: -1
+you_kuijia
+  rotate: true
+  xy: 1554, 63
+  size: 252, 259
+  orig: 252, 259
+  offset: 0, 0
+  index: -1
+you_pifeng
+  rotate: true
+  xy: 2, 42
+  size: 140, 456
+  orig: 140, 456
+  offset: 0, 0
+  index: -1
+zuo_fa
+  rotate: false
+  xy: 1972, 857
+  size: 38, 120
+  orig: 38, 120
+  offset: 0, 0
+  index: -1

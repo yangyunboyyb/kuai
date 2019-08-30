@@ -1,0 +1,118 @@
+
+menke13.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beibao
+  rotate: false
+  xy: 452, 466
+  size: 406, 546
+  orig: 408, 548
+  offset: 1, 1
+  index: -1
+huzi1
+  rotate: false
+  xy: 1687, 727
+  size: 29, 68
+  orig: 31, 70
+  offset: 1, 1
+  index: -1
+huzi2
+  rotate: false
+  xy: 1796, 807
+  size: 19, 55
+  orig: 21, 57
+  offset: 1, 1
+  index: -1
+huzi3
+  rotate: false
+  xy: 1364, 609
+  size: 36, 65
+  orig: 38, 67
+  offset: 1, 1
+  index: -1
+huzi4
+  rotate: false
+  xy: 425, 309
+  size: 15, 76
+  orig: 17, 78
+  offset: 1, 1
+  index: -1
+huzi5
+  rotate: true
+  xy: 1416, 683
+  size: 17, 71
+  orig: 19, 73
+  offset: 1, 1
+  index: -1
+pifeng
+  rotate: true
+  xy: 860, 676
+  size: 336, 554
+  orig: 338, 556
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 387
+  size: 448, 625
+  orig: 450, 627
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 184, 253
+  orig: 186, 255
+  offset: 1, 1
+  index: -1
+weibo
+  rotate: false
+  xy: 2, 188
+  size: 421, 197
+  orig: 423, 199
+  offset: 1, 1
+  index: -1
+yanp
+  rotate: false
+  xy: 452, 435
+  size: 77, 29
+  orig: 79, 31
+  offset: 1, 1
+  index: -1
+yezi
+  rotate: false
+  xy: 257, 76
+  size: 125, 110
+  orig: 127, 112
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: true
+  xy: 1416, 702
+  size: 93, 269
+  orig: 95, 271
+  offset: 1, 1
+  index: -1
+youshou2
+  rotate: true
+  xy: 860, 467
+  size: 207, 502
+  orig: 209, 504
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1416, 797
+  size: 215, 378
+  orig: 217, 380
+  offset: 1, 1
+  index: -1
+zuoshoufangdajin
+  rotate: false
+  xy: 1796, 864
+  size: 124, 148
+  orig: 126, 150
+  offset: 1, 1
+  index: -1

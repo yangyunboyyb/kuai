@@ -1,0 +1,153 @@
+
+menke44.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 53
+  size: 704, 457
+  orig: 706, 459
+  offset: 1, 1
+  index: -1
+fa1
+  rotate: false
+  xy: 1873, 368
+  size: 88, 15
+  orig: 90, 17
+  offset: 1, 1
+  index: -1
+fa2
+  rotate: true
+  xy: 2032, 448
+  size: 62, 14
+  orig: 64, 17
+  offset: 1, 2
+  index: -1
+fa3
+  rotate: true
+  xy: 2016, 437
+  size: 73, 14
+  orig: 75, 16
+  offset: 1, 1
+  index: -1
+fa4
+  rotate: true
+  xy: 242, 34
+  size: 17, 64
+  orig: 22, 74
+  offset: 3, 1
+  index: -1
+fa5
+  rotate: false
+  xy: 1346, 143
+  size: 109, 35
+  orig: 116, 37
+  offset: 6, 1
+  index: -1
+fa6
+  rotate: false
+  xy: 1645, 205
+  size: 20, 53
+  orig: 22, 55
+  offset: 1, 1
+  index: -1
+fa7
+  rotate: false
+  xy: 708, 56
+  size: 279, 79
+  orig: 281, 81
+  offset: 1, 1
+  index: -1
+ffff
+  rotate: false
+  xy: 1096, 56
+  size: 47, 79
+  orig: 49, 81
+  offset: 1, 1
+  index: -1
+kouL
+  rotate: false
+  xy: 708, 260
+  size: 658, 250
+  orig: 660, 255
+  offset: 1, 4
+  index: -1
+kouR
+  rotate: false
+  xy: 708, 137
+  size: 636, 121
+  orig: 636, 121
+  offset: 0, 0
+  index: -1
+lianzi
+  rotate: true
+  xy: 1553, 180
+  size: 78, 90
+  orig: 80, 92
+  offset: 1, 1
+  index: -1
+pidai
+  rotate: true
+  xy: 2, 17
+  size: 34, 238
+  orig: 36, 240
+  offset: 1, 1
+  index: -1
+shouL
+  rotate: true
+  xy: 1368, 260
+  size: 250, 300
+  orig: 252, 302
+  offset: 1, 1
+  index: -1
+shouL01
+  rotate: false
+  xy: 1670, 250
+  size: 126, 102
+  orig: 128, 104
+  offset: 1, 1
+  index: -1
+shouL011
+  rotate: false
+  xy: 1798, 256
+  size: 53, 96
+  orig: 55, 98
+  offset: 1, 1
+  index: -1
+shouR
+  rotate: true
+  xy: 989, 35
+  size: 100, 105
+  orig: 102, 107
+  offset: 1, 1
+  index: -1
+shouR01
+  rotate: false
+  xy: 1873, 385
+  size: 141, 125
+  orig: 143, 127
+  offset: 1, 1
+  index: -1
+shouR2
+  rotate: true
+  xy: 1346, 180
+  size: 78, 205
+  orig: 80, 207
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 1670, 354
+  size: 201, 156
+  orig: 203, 158
+  offset: 1, 1
+  index: -1
+yan
+  rotate: true
+  xy: 2, 2
+  size: 13, 78
+  orig: 15, 80
+  offset: 1, 1
+  index: -1

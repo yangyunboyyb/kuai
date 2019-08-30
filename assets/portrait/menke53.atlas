@@ -1,0 +1,481 @@
+
+menke53.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 206, 323
+  size: 219, 560
+  orig: 219, 560
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 1601, 1900
+  size: 375, 124
+  orig: 375, 124
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 204, 9
+  size: 53, 131
+  orig: 53, 131
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 1453, 1304
+  size: 270, 209
+  orig: 270, 209
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2017, 1978
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 1188, 1290
+  size: 55, 258
+  orig: 55, 258
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 1455, 2
+  size: 60, 227
+  orig: 60, 227
+  offset: 0, 0
+  index: -1
+06a
+  rotate: true
+  xy: 337, 5
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 475, 904
+  size: 326, 83
+  orig: 326, 83
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 1455, 850
+  size: 173, 186
+  orig: 173, 186
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 204, 130
+  size: 169, 138
+  orig: 169, 138
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 2, 289
+  size: 594, 202
+  orig: 594, 202
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 206, 270
+  size: 51, 207
+  orig: 51, 207
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 897, 1351
+  size: 292, 498
+  orig: 292, 498
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 475, 989
+  size: 119, 374
+  orig: 119, 374
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 475, 1110
+  size: 377, 180
+  orig: 377, 180
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 885
+  size: 471, 405
+  orig: 471, 405
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1453, 1576
+  size: 153, 273
+  orig: 153, 273
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1870, 1654
+  size: 74, 244
+  orig: 74, 244
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 1946, 1770
+  size: 29, 128
+  orig: 29, 128
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 204, 64
+  size: 64, 194
+  orig: 64, 194
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 897, 1290
+  size: 59, 289
+  orig: 59, 289
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 2, 12
+  size: 275, 200
+  orig: 275, 200
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 1978, 1928
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 897, 1851
+  size: 702, 173
+  orig: 702, 173
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 2, 1292
+  size: 893, 732
+  orig: 893, 732
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_1
+  rotate: false
+  xy: 1191, 1347
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_10
+  rotate: true
+  xy: 427, 623
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_11
+  rotate: true
+  xy: 427, 361
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_12
+  rotate: true
+  xy: 679, 642
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_13
+  rotate: true
+  xy: 679, 380
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_14
+  rotate: false
+  xy: 931, 786
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_15
+  rotate: false
+  xy: 1193, 786
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_16
+  rotate: false
+  xy: 931, 534
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_17
+  rotate: false
+  xy: 1193, 534
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_18
+  rotate: false
+  xy: 931, 282
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_19
+  rotate: false
+  xy: 1193, 282
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_2
+  rotate: false
+  xy: 1608, 1648
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_20
+  rotate: true
+  xy: 679, 118
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_21
+  rotate: true
+  xy: 427, 99
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_22
+  rotate: false
+  xy: 931, 30
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_23
+  rotate: false
+  xy: 1193, 30
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_24
+  rotate: true
+  xy: 1455, 588
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_25
+  rotate: true
+  xy: 1455, 326
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_26
+  rotate: true
+  xy: 1455, 64
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_27
+  rotate: true
+  xy: 1707, 620
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_28
+  rotate: true
+  xy: 1707, 358
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_29
+  rotate: true
+  xy: 1707, 96
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_3
+  rotate: true
+  xy: 1664, 1386
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_4
+  rotate: false
+  xy: 854, 1038
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_5
+  rotate: false
+  xy: 1664, 1134
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_6
+  rotate: false
+  xy: 1116, 1038
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_7
+  rotate: false
+  xy: 1378, 1038
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_8
+  rotate: false
+  xy: 1640, 882
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_9
+  rotate: false
+  xy: 1191, 1599
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+
+menke532.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogenna_menke_sg/mogenna_menke_sg_30
+  rotate: false
+  xy: 2, 254
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_31
+  rotate: false
+  xy: 2, 2
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_32
+  rotate: false
+  xy: 264, 254
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_33
+  rotate: false
+  xy: 264, 2
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_34
+  rotate: false
+  xy: 526, 254
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_35
+  rotate: false
+  xy: 526, 2
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_36
+  rotate: false
+  xy: 788, 254
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_37
+  rotate: false
+  xy: 788, 2
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_38
+  rotate: false
+  xy: 1050, 254
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_39
+  rotate: false
+  xy: 1050, 2
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_40
+  rotate: false
+  xy: 1312, 254
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+mogenna_menke_sg/mogenna_menke_sg_41
+  rotate: false
+  xy: 1312, 2
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1

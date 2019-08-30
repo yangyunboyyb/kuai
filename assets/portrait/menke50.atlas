@@ -1,0 +1,964 @@
+
+menke50.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 656, 564
+  size: 81, 174
+  orig: 81, 174
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1164, 589
+  size: 81, 174
+  orig: 81, 174
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 1666, 1124
+  size: 75, 161
+  orig: 75, 161
+  offset: 0, 0
+  index: -1
+a_1
+  rotate: false
+  xy: 697, 1255
+  size: 49, 93
+  orig: 49, 93
+  offset: 0, 0
+  index: -1
+a_10
+  rotate: false
+  xy: 1280, 918
+  size: 146, 97
+  orig: 146, 97
+  offset: 0, 0
+  index: -1
+a_11
+  rotate: true
+  xy: 656, 740
+  size: 608, 39
+  orig: 608, 39
+  offset: 0, 0
+  index: -1
+a_12
+  rotate: true
+  xy: 1000, 765
+  size: 128, 287
+  orig: 128, 287
+  offset: 0, 0
+  index: -1
+a_13
+  rotate: false
+  xy: 697, 758
+  size: 301, 153
+  orig: 301, 153
+  offset: 0, 0
+  index: -1
+a_14
+  rotate: false
+  xy: 697, 913
+  size: 307, 337
+  orig: 307, 337
+  offset: 0, 0
+  index: -1
+a_15
+  rotate: true
+  xy: 1533, 1287
+  size: 171, 222
+  orig: 171, 222
+  offset: 0, 0
+  index: -1
+a_16
+  rotate: true
+  xy: 1757, 1321
+  size: 130, 207
+  orig: 130, 207
+  offset: 0, 0
+  index: -1
+a_17
+  rotate: false
+  xy: 1290, 1017
+  size: 118, 233
+  orig: 118, 233
+  offset: 0, 0
+  index: -1
+a_18
+  rotate: true
+  xy: 1933, 1221
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+a_19
+  rotate: false
+  xy: 2, 45
+  size: 228, 46
+  orig: 228, 46
+  offset: 0, 0
+  index: -1
+a_2
+  rotate: true
+  xy: 1977, 1918
+  size: 128, 56
+  orig: 128, 56
+  offset: 0, 0
+  index: -1
+a_20
+  rotate: true
+  xy: 236, 46
+  size: 531, 165
+  orig: 531, 165
+  offset: 0, 0
+  index: -1
+a_21
+  rotate: false
+  xy: 1006, 1069
+  size: 282, 181
+  orig: 282, 181
+  offset: 0, 0
+  index: -1
+a_22
+  rotate: false
+  xy: 1895, 1689
+  size: 80, 357
+  orig: 80, 357
+  offset: 0, 0
+  index: -1
+a_23
+  rotate: false
+  xy: 1542, 1671
+  size: 351, 375
+  orig: 351, 375
+  offset: 0, 0
+  index: -1
+a_24
+  rotate: false
+  xy: 1389, 1306
+  size: 142, 276
+  orig: 142, 276
+  offset: 0, 0
+  index: -1
+a_25
+  rotate: true
+  xy: 2, 579
+  size: 769, 462
+  orig: 769, 462
+  offset: 0, 0
+  index: -1
+a_25aa
+  rotate: false
+  xy: 771, 1584
+  size: 769, 462
+  orig: 769, 462
+  offset: 0, 0
+  index: -1
+a_26
+  rotate: true
+  xy: 2, 93
+  size: 484, 232
+  orig: 484, 232
+  offset: 0, 0
+  index: -1
+a_27
+  rotate: true
+  xy: 466, 510
+  size: 838, 188
+  orig: 838, 188
+  offset: 0, 0
+  index: -1
+a_28
+  rotate: false
+  xy: 2, 1350
+  size: 767, 696
+  orig: 767, 696
+  offset: 0, 0
+  index: -1
+a_29a
+  rotate: false
+  xy: 771, 1252
+  size: 616, 330
+  orig: 616, 330
+  offset: 0, 0
+  index: -1
+a_29b
+  rotate: false
+  xy: 403, 78
+  size: 229, 430
+  orig: 229, 430
+  offset: 0, 0
+  index: -1
+a_29bb
+  rotate: true
+  xy: 1006, 895
+  size: 172, 272
+  orig: 172, 272
+  offset: 0, 0
+  index: -1
+a_3
+  rotate: true
+  xy: 85, 18
+  size: 25, 118
+  orig: 25, 118
+  offset: 0, 0
+  index: -1
+a_4
+  rotate: true
+  xy: 403, 2
+  size: 74, 183
+  orig: 74, 183
+  offset: 0, 0
+  index: -1
+a_5
+  rotate: false
+  xy: 1783, 1453
+  size: 184, 216
+  orig: 184, 216
+  offset: 0, 0
+  index: -1
+a_6
+  rotate: false
+  xy: 2014, 841
+  size: 20, 87
+  orig: 20, 87
+  offset: 0, 0
+  index: -1
+a_7
+  rotate: false
+  xy: 1542, 1460
+  size: 239, 209
+  orig: 239, 209
+  offset: 0, 0
+  index: -1
+a_8
+  rotate: true
+  xy: 2, 2
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+a_9
+  rotate: true
+  xy: 1757, 1238
+  size: 81, 174
+  orig: 81, 174
+  offset: 0, 0
+  index: -1
+a_9a
+  rotate: false
+  xy: 1410, 1130
+  size: 81, 174
+  orig: 81, 174
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_1
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_19
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_2
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_20
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_21
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_22
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_23
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_24
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_25
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_3
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_4
+  rotate: false
+  xy: 588, 2
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_10
+  rotate: false
+  xy: 1977, 1690
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_11
+  rotate: false
+  xy: 645, 6
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_12
+  rotate: false
+  xy: 702, 6
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_13
+  rotate: true
+  xy: 1641, 5
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_14
+  rotate: true
+  xy: 1717, 4
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_15
+  rotate: true
+  xy: 1793, 4
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_16
+  rotate: false
+  xy: 898, 14
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_17
+  rotate: true
+  xy: 955, 9
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_18
+  rotate: true
+  xy: 1031, 9
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_5
+  rotate: false
+  xy: 1489, 315
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_6
+  rotate: false
+  xy: 1410, 1054
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_7
+  rotate: false
+  xy: 1666, 1048
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_8
+  rotate: false
+  xy: 1977, 1842
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_1/zd_kaijia_sg_1_9
+  rotate: false
+  xy: 1977, 1766
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_1
+  rotate: false
+  xy: 1289, 745
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_10
+  rotate: false
+  xy: 783, 239
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_11
+  rotate: false
+  xy: 932, 412
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_12
+  rotate: false
+  xy: 932, 239
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_13
+  rotate: true
+  xy: 783, 90
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_14
+  rotate: false
+  xy: 956, 66
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_15
+  rotate: false
+  xy: 1081, 416
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_16
+  rotate: false
+  xy: 1081, 243
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_17
+  rotate: false
+  xy: 1105, 70
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_18
+  rotate: true
+  xy: 1493, 989
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_19
+  rotate: false
+  xy: 1438, 816
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_2
+  rotate: false
+  xy: 739, 585
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_20
+  rotate: false
+  xy: 1587, 816
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_21
+  rotate: true
+  xy: 1438, 667
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_22
+  rotate: false
+  xy: 1611, 643
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_23
+  rotate: true
+  xy: 1420, 518
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_24
+  rotate: true
+  xy: 1593, 494
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_25
+  rotate: true
+  xy: 1247, 447
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_3
+  rotate: false
+  xy: 1015, 592
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_4
+  rotate: true
+  xy: 1247, 596
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_5
+  rotate: true
+  xy: 1493, 1138
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_6
+  rotate: true
+  xy: 1743, 1089
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_7
+  rotate: false
+  xy: 634, 337
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_8
+  rotate: false
+  xy: 634, 164
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_2/zd_kaijia_sg_2_9
+  rotate: false
+  xy: 783, 412
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_1
+  rotate: false
+  xy: 1966, 1321
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_10
+  rotate: false
+  xy: 1935, 197
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_11
+  rotate: false
+  xy: 1641, 62
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_12
+  rotate: false
+  xy: 1896, 56
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_13
+  rotate: true
+  xy: 766, 8
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_2
+  rotate: true
+  xy: 1916, 1139
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_3
+  rotate: true
+  xy: 1916, 1057
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_4
+  rotate: true
+  xy: 634, 82
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_5
+  rotate: true
+  xy: 1736, 834
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_6
+  rotate: true
+  xy: 1887, 675
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_7
+  rotate: true
+  xy: 1254, 19
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_8
+  rotate: true
+  xy: 1357, 309
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_9
+  rotate: false
+  xy: 1559, 10
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_1
+  rotate: false
+  xy: 1230, 274
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_10
+  rotate: false
+  xy: 1766, 315
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_11
+  rotate: false
+  xy: 1887, 757
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_12
+  rotate: false
+  xy: 1893, 502
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_13
+  rotate: false
+  xy: 1893, 329
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_14
+  rotate: false
+  xy: 1381, 136
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_15
+  rotate: true
+  xy: 1386, 9
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_16
+  rotate: false
+  xy: 1508, 142
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_17
+  rotate: false
+  xy: 1635, 194
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_18
+  rotate: true
+  xy: 1762, 188
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_19
+  rotate: true
+  xy: 1723, 61
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_2
+  rotate: true
+  xy: 1420, 391
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_3
+  rotate: true
+  xy: 1593, 367
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_4
+  rotate: false
+  xy: 1254, 101
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_5
+  rotate: false
+  xy: 1736, 916
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_6
+  rotate: true
+  xy: 1863, 930
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_7
+  rotate: false
+  xy: 1760, 661
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_8
+  rotate: false
+  xy: 1766, 488
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_9
+  rotate: false
+  xy: 888, 585
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+
+menke502.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zd_kaijia_sg_3/zd_kaijia_sg_3_14
+  rotate: false
+  xy: 764, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_15
+  rotate: false
+  xy: 846, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_16
+  rotate: false
+  xy: 928, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_17
+  rotate: false
+  xy: 1010, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_18
+  rotate: false
+  xy: 1092, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_19
+  rotate: false
+  xy: 1174, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_20
+  rotate: false
+  xy: 1256, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_21
+  rotate: false
+  xy: 1338, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_22
+  rotate: false
+  xy: 1420, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_23
+  rotate: false
+  xy: 1502, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_24
+  rotate: false
+  xy: 1584, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_3/zd_kaijia_sg_3_25
+  rotate: false
+  xy: 1666, 43
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_20
+  rotate: false
+  xy: 2, 2
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_21
+  rotate: false
+  xy: 129, 2
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_22
+  rotate: false
+  xy: 256, 2
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_23
+  rotate: false
+  xy: 383, 2
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_24
+  rotate: false
+  xy: 510, 2
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+zd_kaijia_sg_4/zd_kaijia_sg_4_25
+  rotate: false
+  xy: 637, 2
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1

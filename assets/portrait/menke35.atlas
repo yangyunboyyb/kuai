@@ -1,0 +1,132 @@
+
+menke35.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houpifeng
+  rotate: false
+  xy: 2, 384
+  size: 675, 576
+  orig: 677, 578
+  offset: 1, 1
+  index: -1
+jian
+  rotate: false
+  xy: 1269, 411
+  size: 226, 270
+  orig: 228, 272
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 679, 683
+  size: 277, 747
+  orig: 279, 749
+  offset: 1, 1
+  index: -1
+shiz1
+  rotate: false
+  xy: 588, 261
+  size: 634, 92
+  orig: 636, 94
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 1523, 216
+  size: 200, 221
+  orig: 202, 223
+  offset: 1, 1
+  index: -1
+toukui
+  rotate: false
+  xy: 1497, 439
+  size: 202, 249
+  orig: 204, 251
+  offset: 1, 1
+  index: -1
+yanjing
+  rotate: false
+  xy: 588, 368
+  size: 83, 14
+  orig: 85, 16
+  offset: 1, 1
+  index: -1
+yaodai
+  rotate: false
+  xy: 1269, 265
+  size: 252, 144
+  orig: 254, 146
+  offset: 1, 1
+  index: -1
+youpifeng
+  rotate: false
+  xy: 588, 2
+  size: 321, 257
+  orig: 323, 259
+  offset: 1, 1
+  index: -1
+youpifeng1
+  rotate: true
+  xy: 679, 355
+  size: 326, 588
+  orig: 328, 590
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: false
+  xy: 1873, 248
+  size: 140, 207
+  orig: 142, 209
+  offset: 1, 1
+  index: -1
+youshoubi
+  rotate: false
+  xy: 1725, 244
+  size: 146, 211
+  orig: 148, 213
+  offset: 1, 1
+  index: -1
+youyifu
+  rotate: true
+  xy: 2, 19
+  size: 363, 584
+  orig: 365, 586
+  offset: 1, 1
+  index: -1
+zuopifeng
+  rotate: false
+  xy: 1701, 457
+  size: 233, 234
+  orig: 235, 236
+  offset: 1, 1
+  index: -1
+zuopifeng1
+  rotate: true
+  xy: 911, 46
+  size: 213, 296
+  orig: 215, 298
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1428, 690
+  size: 234, 136
+  orig: 236, 138
+  offset: 1, 1
+  index: -1
+zuoshoubi
+  rotate: true
+  xy: 1664, 693
+  size: 133, 221
+  orig: 135, 223
+  offset: 1, 1
+  index: -1
+zuoyifu
+  rotate: true
+  xy: 1428, 828
+  size: 132, 552
+  orig: 134, 554
+  offset: 1, 1
+  index: -1

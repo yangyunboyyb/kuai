@@ -1,0 +1,181 @@
+
+menke36.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0biyan
+  rotate: false
+  xy: 740, 76
+  size: 80, 18
+  orig: 82, 20
+  offset: 1, 1
+  index: -1
+0bozi
+  rotate: false
+  xy: 617, 69
+  size: 121, 167
+  orig: 123, 169
+  offset: 1, 1
+  index: -1
+0fasi1
+  rotate: false
+  xy: 1334, 260
+  size: 22, 33
+  orig: 24, 35
+  offset: 1, 1
+  index: -1
+0fasi2
+  rotate: false
+  xy: 303, 32
+  size: 21, 58
+  orig: 23, 60
+  offset: 1, 1
+  index: -1
+0fasi3
+  rotate: false
+  xy: 1171, 98
+  size: 63, 30
+  orig: 65, 32
+  offset: 1, 1
+  index: -1
+0fasi4
+  rotate: false
+  xy: 1528, 310
+  size: 46, 23
+  orig: 48, 25
+  offset: 1, 1
+  index: -1
+0fasi5
+  rotate: true
+  xy: 880, 98
+  size: 29, 67
+  orig: 31, 69
+  offset: 1, 1
+  index: -1
+0fasi6
+  rotate: false
+  xy: 250, 23
+  size: 51, 67
+  orig: 53, 69
+  offset: 1, 1
+  index: -1
+0fasi7
+  rotate: false
+  xy: 1278, 203
+  size: 21, 35
+  orig: 23, 37
+  offset: 1, 1
+  index: -1
+0lian
+  rotate: false
+  xy: 1884, 356
+  size: 143, 154
+  orig: 145, 156
+  offset: 1, 1
+  index: -1
+0niukou
+  rotate: true
+  xy: 1437, 306
+  size: 27, 89
+  orig: 29, 91
+  offset: 1, 1
+  index: -1
+0qugan
+  rotate: false
+  xy: 2, 92
+  size: 352, 418
+  orig: 354, 420
+  offset: 1, 1
+  index: -1
+0qunbai
+  rotate: false
+  xy: 740, 96
+  size: 138, 152
+  orig: 140, 154
+  offset: 1, 1
+  index: -1
+0toufa
+  rotate: false
+  xy: 1688, 338
+  size: 194, 172
+  orig: 196, 174
+  offset: 1, 1
+  index: -1
+0xunzhang
+  rotate: false
+  xy: 1278, 240
+  size: 54, 53
+  orig: 56, 55
+  offset: 1, 1
+  index: -1
+0xunzhanglian
+  rotate: true
+  xy: 1053, 89
+  size: 159, 116
+  orig: 161, 118
+  offset: 1, 1
+  index: -1
+0yaodaida
+  rotate: false
+  xy: 2, 2
+  size: 246, 88
+  orig: 248, 90
+  offset: 1, 1
+  index: -1
+0yaodaixiao
+  rotate: false
+  xy: 356, 108
+  size: 259, 128
+  orig: 261, 130
+  offset: 1, 1
+  index: -1
+0zhixin
+  rotate: false
+  xy: 1437, 335
+  size: 249, 175
+  orig: 251, 177
+  offset: 1, 1
+  index: -1
+1gebo
+  rotate: true
+  xy: 730, 354
+  size: 156, 453
+  orig: 158, 455
+  offset: 1, 1
+  index: -1
+1jian
+  rotate: false
+  xy: 356, 238
+  size: 372, 272
+  orig: 374, 274
+  offset: 1, 1
+  index: -1
+1jiandai
+  rotate: false
+  xy: 1171, 130
+  size: 105, 163
+  orig: 107, 165
+  offset: 1, 1
+  index: -1
+1qunbai
+  rotate: false
+  xy: 1185, 295
+  size: 250, 215
+  orig: 252, 217
+  offset: 1, 1
+  index: -1
+2gebo
+  rotate: true
+  xy: 730, 250
+  size: 102, 435
+  orig: 104, 437
+  offset: 1, 1
+  index: -1
+2qunbai
+  rotate: true
+  xy: 880, 129
+  size: 119, 171
+  orig: 121, 173
+  offset: 1, 1
+  index: -1

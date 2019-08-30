@@ -1,0 +1,132 @@
+
+menke17.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banbiyan
+  rotate: false
+  xy: 754, 379
+  size: 92, 29
+  orig: 92, 29
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 965, 930
+  size: 92, 29
+  orig: 92, 29
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 581, 681
+  size: 299, 341
+  orig: 299, 341
+  offset: 0, 0
+  index: -1
+shu
+  rotate: true
+  xy: 754, 410
+  size: 269, 127
+  orig: 269, 136
+  offset: 0, 0
+  index: -1
+shuye0005
+  rotate: false
+  xy: 167, 18
+  size: 97, 63
+  orig: 269, 136
+  offset: 146, 73
+  index: -1
+tou
+  rotate: false
+  xy: 597, 150
+  size: 163, 194
+  orig: 163, 194
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 2, 253
+  size: 577, 769
+  orig: 577, 769
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 359, 66
+  size: 185, 236
+  orig: 185, 236
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 883, 458
+  size: 119, 80
+  orig: 119, 80
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 726, 54
+  size: 94, 65
+  orig: 94, 65
+  offset: 0, 0
+  index: -1
+youyixiu
+  rotate: true
+  xy: 2, 83
+  size: 168, 355
+  orig: 168, 355
+  offset: 0, 0
+  index: -1
+youyixiudi
+  rotate: false
+  xy: 882, 706
+  size: 81, 316
+  orig: 81, 316
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 581, 346
+  size: 171, 333
+  orig: 171, 333
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 597, 43
+  size: 105, 127
+  orig: 105, 127
+  offset: 0, 0
+  index: -1
+zuoshoushi1
+  rotate: true
+  xy: 726, 2
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+zuoshoushi2
+  rotate: true
+  xy: 266, 46
+  size: 35, 83
+  orig: 35, 83
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 883, 579
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+zuoyixiudi
+  rotate: true
+  xy: 2, 9
+  size: 72, 163
+  orig: 72, 163
+  offset: 0, 0
+  index: -1

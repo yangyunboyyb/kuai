@@ -1,0 +1,139 @@
+
+menke10.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: false
+  xy: 1097, 505
+  size: 232, 510
+  orig: 232, 510
+  offset: 0, 0
+  index: -1
+pifeng02
+  rotate: false
+  xy: 1331, 769
+  size: 431, 246
+  orig: 431, 246
+  offset: 0, 0
+  index: -1
+pifeng03
+  rotate: false
+  xy: 2, 181
+  size: 534, 834
+  orig: 534, 834
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: false
+  xy: 1716, 481
+  size: 153, 204
+  orig: 153, 204
+  offset: 0, 0
+  index: -1
+qunbai1
+  rotate: false
+  xy: 1764, 687
+  size: 267, 328
+  orig: 323, 328
+  offset: 56, 0
+  index: -1
+qunbai2
+  rotate: true
+  xy: 2, 32
+  size: 147, 244
+  orig: 183, 244
+  offset: 0, 0
+  index: -1
+qunbai4
+  rotate: false
+  xy: 1871, 538
+  size: 126, 147
+  orig: 126, 147
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 893, 221
+  size: 215, 202
+  orig: 215, 202
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: true
+  xy: 538, 204
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: true
+  xy: 1871, 485
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+toufa03
+  rotate: false
+  xy: 1716, 700
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: true
+  xy: 2033, 941
+  size: 74, 12
+  orig: 74, 12
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 248, 65
+  size: 255, 114
+  orig: 255, 114
+  offset: 0, 0
+  index: -1
+yaodai1
+  rotate: true
+  xy: 2, 2
+  size: 28, 233
+  orig: 30, 235
+  offset: 1, 1
+  index: -1
+yaodai2
+  rotate: true
+  xy: 538, 240
+  size: 14, 177
+  orig: 16, 179
+  offset: 1, 1
+  index: -1
+yifu
+  rotate: false
+  xy: 538, 256
+  size: 353, 759
+  orig: 353, 759
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 893, 425
+  size: 202, 590
+  orig: 202, 590
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1331, 478
+  size: 289, 383
+  orig: 289, 383
+  offset: 0, 0
+  index: -1
+zuoshoushouzhi
+  rotate: false
+  xy: 1097, 426
+  size: 109, 77
+  orig: 109, 77
+  offset: 0, 0
+  index: -1

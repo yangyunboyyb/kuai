@@ -1,0 +1,97 @@
+
+menke27.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 391, 573
+  size: 506, 446
+  orig: 506, 446
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 391, 424
+  size: 147, 400
+  orig: 147, 400
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 391, 362
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 793, 535
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 260, 27
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 899, 843
+  size: 176, 31
+  orig: 176, 31
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 460, 161
+  size: 31, 161
+  orig: 31, 161
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 665, 358
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 260, 52
+  size: 198, 308
+  orig: 198, 308
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 2, 2
+  size: 16, 79
+  orig: 16, 79
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 20
+  size: 256, 340
+  orig: 256, 340
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 460, 194
+  size: 203, 228
+  orig: 203, 228
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 362
+  size: 387, 657
+  orig: 387, 657
+  offset: 0, 0
+  index: -1

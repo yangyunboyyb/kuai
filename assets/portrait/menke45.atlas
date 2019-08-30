@@ -1,0 +1,614 @@
+
+menke45.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0017
+  rotate: false
+  xy: 2, 561
+  size: 690, 732
+  orig: 690, 732
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 304, 134
+  size: 218, 425
+  orig: 218, 425
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 434, 1311
+  size: 690, 732
+  orig: 690, 732
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 343, 14
+  size: 40, 118
+  orig: 40, 118
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1386, 1816
+  size: 600, 227
+  orig: 600, 227
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 2, 3
+  size: 110, 47
+  orig: 110, 47
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 524, 134
+  size: 218, 425
+  orig: 218, 425
+  offset: 0, 0
+  index: -1
+123
+  rotate: false
+  xy: 175, 126
+  size: 127, 433
+  orig: 127, 433
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1988, 1808
+  size: 46, 235
+  orig: 46, 235
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 1358, 1835
+  size: 208, 26
+  orig: 208, 26
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 1295
+  size: 430, 748
+  orig: 430, 748
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 694, 577
+  size: 690, 732
+  orig: 690, 732
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 385, 5
+  size: 19, 56
+  orig: 19, 56
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 51, 4
+  size: 25, 109
+  orig: 25, 109
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 302, 2
+  size: 39, 122
+  orig: 39, 122
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 965, 213
+  size: 27, 91
+  orig: 27, 91
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 443, 7
+  size: 86, 17
+  orig: 86, 17
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 833, 12
+  size: 166, 226
+  orig: 166, 226
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 115
+  size: 444, 171
+  orig: 444, 171
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 744, 180
+  size: 395, 219
+  orig: 395, 219
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg
+  rotate: false
+  xy: 78, 7
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_02
+  rotate: false
+  xy: 385, 26
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_03
+  rotate: false
+  xy: 609, 26
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_04
+  rotate: true
+  xy: 1721, 587
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_05
+  rotate: true
+  xy: 1829, 587
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_06
+  rotate: true
+  xy: 1937, 587
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_07
+  rotate: true
+  xy: 1731, 20
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_08
+  rotate: true
+  xy: 1839, 20
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_09
+  rotate: true
+  xy: 1893, 363
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_1
+  rotate: false
+  xy: 1126, 1710
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_11
+  rotate: false
+  xy: 1731, 1481
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_13
+  rotate: true
+  xy: 1386, 1584
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_15
+  rotate: true
+  xy: 1386, 1352
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_17
+  rotate: false
+  xy: 1126, 1375
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_19
+  rotate: false
+  xy: 1731, 1146
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_21
+  rotate: true
+  xy: 1386, 1120
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_23
+  rotate: false
+  xy: 1731, 811
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_25
+  rotate: true
+  xy: 1386, 579
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_27
+  rotate: false
+  xy: 1429, 244
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_29
+  rotate: false
+  xy: 1661, 244
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_3
+  rotate: false
+  xy: 965, 242
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_31
+  rotate: true
+  xy: 1386, 888
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_5
+  rotate: true
+  xy: 1061, 10
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_7
+  rotate: false
+  xy: 1197, 242
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_9
+  rotate: true
+  xy: 1396, 10
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+
+menke452.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aidehua_lianzi_sg/aidehua_lianzi_sg_10
+  rotate: false
+  xy: 1162, 1569
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_11
+  rotate: false
+  xy: 1394, 1904
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_12
+  rotate: false
+  xy: 466, 229
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_13
+  rotate: false
+  xy: 698, 564
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_14
+  rotate: false
+  xy: 930, 899
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_15
+  rotate: false
+  xy: 1162, 1461
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_16
+  rotate: false
+  xy: 1394, 1796
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_17
+  rotate: false
+  xy: 1618, 1904
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_18
+  rotate: false
+  xy: 466, 121
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_19
+  rotate: false
+  xy: 698, 456
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_20
+  rotate: false
+  xy: 930, 791
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_21
+  rotate: false
+  xy: 1162, 1353
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_22
+  rotate: false
+  xy: 1394, 1688
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_23
+  rotate: false
+  xy: 1618, 1796
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_24
+  rotate: false
+  xy: 466, 13
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_lianzi_sg/aidehua_lianzi_sg_25
+  rotate: false
+  xy: 698, 348
+  size: 222, 106
+  orig: 222, 106
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_33
+  rotate: false
+  xy: 2, 1677
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_35
+  rotate: false
+  xy: 2, 1342
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_37
+  rotate: false
+  xy: 234, 1677
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_39
+  rotate: false
+  xy: 2, 1007
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_41
+  rotate: false
+  xy: 234, 1342
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_43
+  rotate: false
+  xy: 466, 1677
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_45
+  rotate: false
+  xy: 2, 672
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_47
+  rotate: false
+  xy: 234, 1007
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_49
+  rotate: false
+  xy: 466, 1342
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_51
+  rotate: false
+  xy: 698, 1677
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_53
+  rotate: false
+  xy: 2, 337
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_55
+  rotate: false
+  xy: 234, 672
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_57
+  rotate: false
+  xy: 466, 1007
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_59
+  rotate: false
+  xy: 698, 1342
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_61
+  rotate: false
+  xy: 930, 1677
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_63
+  rotate: false
+  xy: 2, 2
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_65
+  rotate: false
+  xy: 234, 337
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_67
+  rotate: false
+  xy: 466, 672
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_69
+  rotate: false
+  xy: 698, 1007
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_71
+  rotate: false
+  xy: 930, 1342
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_73
+  rotate: false
+  xy: 1162, 1677
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_75
+  rotate: false
+  xy: 234, 2
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_77
+  rotate: false
+  xy: 466, 337
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_79
+  rotate: false
+  xy: 698, 672
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1
+aidehua_sg/aidehua_sg_81
+  rotate: false
+  xy: 930, 1007
+  size: 230, 333
+  orig: 230, 333
+  offset: 0, 0
+  index: -1

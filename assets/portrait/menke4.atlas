@@ -1,0 +1,174 @@
+
+menke4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 409, 46
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+huzishang
+  rotate: false
+  xy: 1454, 675
+  size: 96, 25
+  orig: 96, 25
+  offset: 0, 0
+  index: -1
+huzizuo1
+  rotate: true
+  xy: 1640, 713
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+jiasha
+  rotate: false
+  xy: 360, 430
+  size: 281, 591
+  orig: 281, 591
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 652, 306
+  size: 210, 184
+  orig: 210, 184
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: false
+  xy: 652, 176
+  size: 200, 128
+  orig: 200, 128
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 276, 124
+  size: 257, 158
+  orig: 257, 158
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 926, 604
+  size: 369, 417
+  orig: 369, 417
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: true
+  xy: 2, 3
+  size: 378, 272
+  orig: 378, 272
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 1640, 760
+  size: 235, 261
+  orig: 235, 261
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 926, 411
+  size: 261, 191
+  orig: 261, 191
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 1877, 760
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 436, 177
+  size: 214, 251
+  orig: 214, 251
+  offset: 0, 0
+  index: -1
+youhuzi1
+  rotate: true
+  xy: 436, 140
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 276, 2
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+youxiukou
+  rotate: false
+  xy: 1454, 702
+  size: 184, 319
+  orig: 184, 319
+  offset: 0, 0
+  index: -1
+youxiuzi
+  rotate: false
+  xy: 643, 492
+  size: 281, 529
+  orig: 281, 529
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 2, 383
+  size: 356, 638
+  orig: 356, 638
+  offset: 0, 0
+  index: -1
+zuodamuge
+  rotate: false
+  xy: 1299, 450
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+zuohuzi2
+  rotate: true
+  xy: 360, 387
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1299, 494
+  size: 97, 115
+  orig: 97, 115
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 1189, 435
+  size: 108, 167
+  orig: 108, 167
+  offset: 0, 0
+  index: -1
+zuoxiaozhi
+  rotate: false
+  xy: 864, 432
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+zuoziu
+  rotate: false
+  xy: 1297, 611
+  size: 155, 410
+  orig: 155, 410
+  offset: 0, 0
+  index: -1

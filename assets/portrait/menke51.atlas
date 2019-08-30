@@ -1,0 +1,481 @@
+
+menke51.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 417, 213
+  orig: 417, 213
+  offset: 0, 0
+  index: -1
+013
+  rotate: true
+  xy: 889, 1346
+  size: 244, 481
+  orig: 244, 481
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 421, 187
+  size: 107, 28
+  orig: 107, 28
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 1100, 716
+  size: 37, 145
+  orig: 37, 145
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 919, 228
+  size: 230, 83
+  orig: 230, 83
+  offset: 0, 0
+  index: -1
+04a
+  rotate: true
+  xy: 1870, 1068
+  size: 138, 38
+  orig: 138, 38
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 421, 7
+  size: 54, 278
+  orig: 54, 278
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 1372, 1336
+  size: 52, 325
+  orig: 52, 325
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 1951, 1720
+  size: 87, 318
+  orig: 87, 318
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 1100, 533
+  size: 253, 167
+  orig: 253, 167
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 1870, 1208
+  size: 186, 113
+  orig: 186, 113
+  offset: 0, 0
+  index: -1
+0a16
+  rotate: false
+  xy: 2, 515
+  size: 446, 819
+  orig: 446, 819
+  offset: 0, 0
+  index: -1
+0b16
+  rotate: true
+  xy: 889, 1592
+  size: 446, 819
+  orig: 446, 819
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 535, 187
+  size: 124, 382
+  orig: 124, 382
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 1710, 1598
+  size: 440, 239
+  orig: 440, 239
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 2, 217
+  size: 296, 531
+  orig: 296, 531
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 898, 863
+  size: 244, 481
+  orig: 244, 481
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 919, 187
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 701, 14
+  size: 47, 254
+  orig: 47, 254
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 450, 515
+  size: 446, 819
+  orig: 446, 819
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1823, 2
+  size: 222, 82
+  orig: 222, 82
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 1501, 416
+  size: 110, 153
+  orig: 110, 153
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 1025, 23
+  size: 203, 81
+  orig: 203, 81
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 421, 63
+  size: 300, 122
+  orig: 300, 122
+  offset: 0, 0
+  index: -1
+20a
+  rotate: false
+  xy: 723, 63
+  size: 300, 122
+  orig: 300, 122
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 2, 1336
+  size: 885, 702
+  orig: 885, 702
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_1
+  rotate: true
+  xy: 1372, 1390
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_11
+  rotate: true
+  xy: 1346, 932
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_13
+  rotate: false
+  xy: 1144, 702
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_15
+  rotate: true
+  xy: 1346, 730
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_17
+  rotate: true
+  xy: 1355, 528
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_19
+  rotate: false
+  xy: 1668, 1014
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_21
+  rotate: true
+  xy: 1668, 812
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_23
+  rotate: true
+  xy: 1677, 610
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_25
+  rotate: true
+  xy: 1677, 408
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_27
+  rotate: true
+  xy: 857, 313
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_29
+  rotate: true
+  xy: 1179, 326
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_3
+  rotate: false
+  xy: 898, 541
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_31
+  rotate: true
+  xy: 1179, 124
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_33
+  rotate: true
+  xy: 1501, 206
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_35
+  rotate: true
+  xy: 1501, 4
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_37
+  rotate: false
+  xy: 1823, 86
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_39
+  rotate: true
+  xy: 1710, 1396
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_5
+  rotate: false
+  xy: 1144, 1024
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_7
+  rotate: true
+  xy: 1346, 1134
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_9
+  rotate: true
+  xy: 535, 313
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+
+menke512.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_41
+  rotate: false
+  xy: 2, 646
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_43
+  rotate: false
+  xy: 2, 324
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_45
+  rotate: false
+  xy: 204, 646
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_47
+  rotate: false
+  xy: 2, 2
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_49
+  rotate: false
+  xy: 204, 324
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_51
+  rotate: false
+  xy: 406, 646
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_53
+  rotate: false
+  xy: 204, 2
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_55
+  rotate: false
+  xy: 406, 324
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_57
+  rotate: false
+  xy: 608, 646
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_59
+  rotate: false
+  xy: 406, 2
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_61
+  rotate: false
+  xy: 608, 324
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_63
+  rotate: false
+  xy: 810, 646
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_65
+  rotate: false
+  xy: 608, 2
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_67
+  rotate: false
+  xy: 810, 324
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_69
+  rotate: false
+  xy: 1012, 646
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_71
+  rotate: false
+  xy: 810, 2
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_73
+  rotate: false
+  xy: 1012, 324
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_75
+  rotate: false
+  xy: 1214, 646
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_77
+  rotate: false
+  xy: 1012, 2
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_79
+  rotate: false
+  xy: 1214, 324
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1
+lagesha_zhanshi_sg/lagesha_zhanshi_sg_81
+  rotate: false
+  xy: 1416, 646
+  size: 200, 320
+  orig: 200, 320
+  offset: 0, 0
+  index: -1

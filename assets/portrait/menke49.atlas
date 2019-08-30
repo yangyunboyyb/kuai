@@ -1,0 +1,432 @@
+
+menke49.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: true
+  xy: 404, 328
+  size: 15, 125
+  orig: 15, 125
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 1360, 1050
+  size: 16, 138
+  orig: 16, 138
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 574, 1000
+  size: 19, 135
+  orig: 19, 135
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 1917, 1492
+  size: 13, 125
+  orig: 13, 125
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 1969, 1901
+  size: 113, 26
+  orig: 113, 26
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 1098, 577
+  size: 209, 231
+  orig: 209, 231
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 1176, 1619
+  size: 395, 791
+  orig: 395, 791
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 1879, 1280
+  size: 23, 80
+  orig: 23, 80
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1378, 327
+  size: 26, 75
+  orig: 26, 75
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 595, 1060
+  size: 25, 75
+  orig: 25, 75
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 2
+  size: 78, 79
+  orig: 78, 79
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 1137
+  size: 618, 877
+  orig: 618, 877
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 1176, 1190
+  size: 170, 701
+  orig: 170, 701
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 622, 1234
+  size: 552, 780
+  orig: 552, 780
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 2, 345
+  size: 570, 790
+  orig: 570, 790
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 1176, 1362
+  size: 255, 739
+  orig: 255, 739
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_1
+  rotate: true
+  xy: 622, 972
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_10
+  rotate: true
+  xy: 1378, 928
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_11
+  rotate: true
+  xy: 1378, 666
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_12
+  rotate: true
+  xy: 1378, 404
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_13
+  rotate: false
+  xy: 1780, 788
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_14
+  rotate: false
+  xy: 1780, 386
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_15
+  rotate: true
+  xy: 1610, 124
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_16
+  rotate: false
+  xy: 1098, 788
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_2
+  rotate: false
+  xy: 574, 570
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_3
+  rotate: false
+  xy: 836, 570
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_4
+  rotate: true
+  xy: 574, 308
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_5
+  rotate: true
+  xy: 404, 46
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_6
+  rotate: true
+  xy: 806, 46
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_7
+  rotate: true
+  xy: 976, 308
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_8
+  rotate: true
+  xy: 1208, 46
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_9
+  rotate: true
+  xy: 2, 83
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+
+menke492.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0a1
+  rotate: false
+  xy: 788, 171
+  size: 209, 231
+  orig: 209, 231
+  offset: 0, 0
+  index: -1
+0a2
+  rotate: false
+  xy: 1050, 573
+  size: 209, 231
+  orig: 209, 231
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1312, 1037
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_17
+  rotate: false
+  xy: 2, 1610
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_18
+  rotate: false
+  xy: 2, 1208
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_19
+  rotate: false
+  xy: 264, 1610
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_20
+  rotate: false
+  xy: 2, 806
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_21
+  rotate: false
+  xy: 264, 1208
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_22
+  rotate: false
+  xy: 526, 1610
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_23
+  rotate: false
+  xy: 2, 404
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_24
+  rotate: false
+  xy: 264, 806
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_25
+  rotate: false
+  xy: 526, 1208
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_26
+  rotate: false
+  xy: 788, 1610
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_27
+  rotate: false
+  xy: 2, 2
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_28
+  rotate: false
+  xy: 264, 404
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_29
+  rotate: false
+  xy: 526, 806
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_30
+  rotate: false
+  xy: 788, 1208
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_31
+  rotate: false
+  xy: 1050, 1610
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_32
+  rotate: false
+  xy: 264, 2
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_33
+  rotate: false
+  xy: 526, 404
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_34
+  rotate: false
+  xy: 788, 806
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_35
+  rotate: false
+  xy: 1050, 1208
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_36
+  rotate: false
+  xy: 1312, 1610
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_37
+  rotate: false
+  xy: 526, 2
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_38
+  rotate: false
+  xy: 788, 404
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_39
+  rotate: false
+  xy: 1050, 806
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_40
+  rotate: false
+  xy: 1312, 1208
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1
+chashidingni_sg/chashidingni_sg_41
+  rotate: false
+  xy: 1574, 1610
+  size: 260, 400
+  orig: 260, 400
+  offset: 0, 0
+  index: -1

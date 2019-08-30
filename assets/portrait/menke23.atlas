@@ -1,0 +1,202 @@
+
+menke23.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0biyan
+  rotate: false
+  xy: 1282, 109
+  size: 67, 16
+  orig: 69, 18
+  offset: 1, 1
+  index: -1
+0bozi
+  rotate: false
+  xy: 1856, 272
+  size: 88, 82
+  orig: 90, 84
+  offset: 1, 1
+  index: -1
+0lian
+  rotate: false
+  xy: 977, 163
+  size: 127, 168
+  orig: 129, 170
+  offset: 1, 1
+  index: -1
+0maozi1
+  rotate: true
+  xy: 1106, 109
+  size: 169, 174
+  orig: 171, 176
+  offset: 1, 1
+  index: -1
+0maozi2
+  rotate: true
+  xy: 1282, 127
+  size: 151, 136
+  orig: 153, 138
+  offset: 1, 1
+  index: -1
+0maozi3
+  rotate: true
+  xy: 1934, 367
+  size: 137, 111
+  orig: 139, 113
+  offset: 1, 1
+  index: -1
+0qugan
+  rotate: true
+  xy: 2, 121
+  size: 383, 600
+  orig: 402, 602
+  offset: 18, 1
+  index: -1
+0yepian1
+  rotate: false
+  xy: 1603, 231
+  size: 26, 30
+  orig: 28, 32
+  offset: 1, 1
+  index: -1
+0yepian2
+  rotate: true
+  xy: 604, 121
+  size: 21, 20
+  orig: 23, 22
+  offset: 1, 1
+  index: -1
+0yepian3
+  rotate: false
+  xy: 1521, 161
+  size: 42, 43
+  orig: 44, 45
+  offset: 1, 1
+  index: -1
+0yepian4
+  rotate: false
+  xy: 694, 149
+  size: 38, 20
+  orig: 40, 22
+  offset: 1, 1
+  index: -1
+0yepian5
+  rotate: true
+  xy: 2023, 318
+  size: 47, 20
+  orig: 49, 22
+  offset: 1, 1
+  index: -1
+0yepian6
+  rotate: false
+  xy: 1573, 231
+  size: 28, 30
+  orig: 30, 32
+  offset: 1, 1
+  index: -1
+0yepian7
+  rotate: false
+  xy: 1521, 127
+  size: 41, 32
+  orig: 43, 34
+  offset: 1, 1
+  index: -1
+0yepian8
+  rotate: true
+  xy: 1420, 113
+  size: 171, 99
+  orig: 173, 101
+  offset: 1, 1
+  index: -1
+1shou
+  rotate: true
+  xy: 1578, 263
+  size: 108, 131
+  orig: 110, 133
+  offset: 1, 1
+  index: -1
+1xiaobi
+  rotate: true
+  xy: 1721, 356
+  size: 148, 211
+  orig: 150, 213
+  offset: 1, 1
+  index: -1
+1xiuzi1
+  rotate: true
+  xy: 2, 2
+  size: 117, 504
+  orig: 119, 506
+  offset: 1, 1
+  index: -1
+1xiuzi2
+  rotate: true
+  xy: 604, 171
+  size: 160, 371
+  orig: 162, 373
+  offset: 1, 1
+  index: -1
+1xiuzizhedang
+  rotate: true
+  xy: 1521, 206
+  size: 78, 50
+  orig: 80, 52
+  offset: 1, 1
+  index: -1
+2dabixiuzi
+  rotate: true
+  xy: 604, 333
+  size: 171, 513
+  orig: 173, 515
+  offset: 1, 1
+  index: -1
+2fapian
+  rotate: true
+  xy: 604, 144
+  size: 25, 88
+  orig: 27, 90
+  offset: 1, 1
+  index: -1
+2shou
+  rotate: false
+  xy: 1402, 286
+  size: 174, 85
+  orig: 176, 87
+  offset: 1, 1
+  index: -1
+2shouhua
+  rotate: false
+  xy: 1946, 292
+  size: 75, 73
+  orig: 77, 75
+  offset: 1, 1
+  index: -1
+2shu
+  rotate: false
+  xy: 1119, 280
+  size: 281, 224
+  orig: 283, 226
+  offset: 1, 1
+  index: -1
+2shuye
+  rotate: true
+  xy: 508, 11
+  size: 108, 107
+  orig: 110, 109
+  offset: 1, 1
+  index: -1
+2xiaobi
+  rotate: false
+  xy: 1711, 273
+  size: 143, 81
+  orig: 145, 83
+  offset: 1, 1
+  index: -1
+2xiuzi2
+  rotate: true
+  xy: 1402, 373
+  size: 131, 317
+  orig: 133, 319
+  offset: 1, 1
+  index: -1

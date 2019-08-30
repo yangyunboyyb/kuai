@@ -1,0 +1,69 @@
+
+menke22.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pifemg
+  rotate: false
+  xy: 2, 399
+  size: 750, 610
+  orig: 752, 611
+  offset: 1, 1
+  index: -1
+pifenghou
+  rotate: false
+  xy: 754, 595
+  size: 608, 414
+  orig: 610, 416
+  offset: 1, 1
+  index: -1
+shou
+  rotate: false
+  xy: 1364, 733
+  size: 676, 276
+  orig: 678, 280
+  offset: 0, 2
+  index: -1
+tou
+  rotate: true
+  xy: 1739, 558
+  size: 173, 205
+  orig: 173, 205
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: true
+  xy: 663, 174
+  size: 223, 99
+  orig: 225, 101
+  offset: 1, 1
+  index: -1
+xiuzi
+  rotate: true
+  xy: 1364, 542
+  size: 189, 373
+  orig: 191, 375
+  offset: 1, 1
+  index: -1
+xiuzizuo
+  rotate: true
+  xy: 754, 405
+  size: 188, 409
+  orig: 190, 411
+  offset: 1, 1
+  index: -1
+yanpi
+  rotate: false
+  xy: 2, 2
+  size: 79, 15
+  orig: 81, 17
+  offset: 1, 1
+  index: -1
+yifu
+  rotate: true
+  xy: 2, 19
+  size: 378, 659
+  orig: 379, 661
+  offset: 1, 1
+  index: -1
